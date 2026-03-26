@@ -1,4 +1,5 @@
 you can test my test task in this method.
+First, create a new folder of your choice, open the command window there.
 Write the following in your command window.
 1 - git init
 2 - git add remote add origin https://github.com/WendyB1101/test-calculator.git
